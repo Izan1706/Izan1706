@@ -1,16 +1,25 @@
-## Hi there 👋
+# Junior Systems & Cloud Enthusiast
 
-<!--
-**Izan1706/Izan1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a systems and infrastructure student focused on Linux, networking, and cloud technologies. Currently transitioning towards DevOps and AWS cloud engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- Linux (Ubuntu, Debian)
+- Networking (TCP/IP, NAT, VPN, firewalling)
+- Docker & containerization
+- Git & GitHub
+- Basic cloud concepts (AWS learning phase)
+
+---
+
+## 🚀 Projects
+- Homelab Infrastructure: Docker-based environment simulating real services (monitoring, VPN, services orchestration)
+- Security Lab: network scanning and hardening experiments using Linux tools
+- Monitoring Stack: basic observability setup with uptime and resource tracking
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/izan-rodr%C3%ADguez-garc%C3%ADa-a35652295/
+- GitHub: github.com/Izan1706
