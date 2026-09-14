@@ -21,5 +21,5 @@ I’m a systems and infrastructure student focused on Linux, networking, and clo
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/izan-rodr%C3%ADguez-garc%C3%ADa-a35652295/
+- LinkedIn: [https://www.linkedin.com/in/izan-rodr%C3%ADguez-garc%C3%ADa-a35652295/](https://www.linkedin.com/in/izan-rodriguez-garcia-it/)
 - GitHub: github.com/Izan1706
