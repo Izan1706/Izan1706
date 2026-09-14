@@ -1,6 +1,6 @@
 # Junior Systems & Cloud Enthusiast
 
-I’m a systems and infrastructure student focused on Linux, networking, and cloud technologies. Currently transitioning towards DevOps and AWS cloud engineering.
+I’m a systems and infrastructure gradued focused on Linux, networking, and cloud technologies. Currently transitioning towards DevOps and AWS cloud engineering.
 
 ---
 
